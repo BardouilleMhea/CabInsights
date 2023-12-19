@@ -75,7 +75,7 @@ CabInsights is a GitHub repository dedicated to the comprehensive analysis and e
 - **Population**, **Users**: Ensure numerical data types.
 - Normalize or scale numerical features if required.
 
-### Hypotheses to Investigate:
+## Hypotheses to Investigate:
 
 1. **Seasonality in Cab Usage:**
    - **Hypothesis:** The number of customers using the cab service exhibits seasonality, with higher demand during specific months or times of the year.
@@ -105,7 +105,7 @@ CabInsights is a GitHub repository dedicated to the comprehensive analysis and e
    - **Hypothesis:** The preferred payment mode for cab services varies based on the time of day.
    - **Investigation:** Examine the distribution of payment modes across different times of the day to identify any patterns or preferences.
 
-### Methodology:
+## Methodology:
 
 1. **Data Preparation:**
    - Clean and preprocess the datasets, ensuring consistency and accuracy.
